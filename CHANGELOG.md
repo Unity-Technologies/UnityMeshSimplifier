@@ -1,3 +1,30 @@
+## [2.3.3](https://github.com/Whinarn/UnityMeshSimplifier/compare/v2.3.2...v2.3.3) (2020-05-01)
+
+
+### Bug Fixes
+
+* **mesh:** bug related to degenerated triangle when using smart linking ([e9d5def](https://github.com/Whinarn/UnityMeshSimplifier/commit/e9d5def2eb6e18eed7e9f86943e5d32bf0721d60))
+
+## [2.3.2](https://github.com/Whinarn/UnityMeshSimplifier/compare/v2.3.1...v2.3.2) (2020-04-30)
+
+
+### Bug Fixes
+
+* **meshutils:** GetUsedUVComponents should now be able to return zero ([af60914](https://github.com/Whinarn/UnityMeshSimplifier/commit/af6091481d212f5c98bf1f8f16cf922367f0a08d))
+
+## [2.3.1](https://github.com/Whinarn/UnityMeshSimplifier/compare/v2.3.0...v2.3.1) (2020-04-14)
+
+
+### Reverts
+
+* temporarily allow refactor commits to trigger a release ([fd8d697](https://github.com/Whinarn/UnityMeshSimplifier/commit/fd8d69751038f0d8a6fc9880c3159d3718d6a2ee))
+
+## [2.3.0](https://github.com/Whinarn/UnityMeshSimplifier/compare/v2.2.0...v2.3.0) (2020-04-14)
+
+### Added
+
+* mesh simplifier uses the simplification options struct ([87d3fa8](https://github.com/Whinarn/UnityMeshSimplifier/commit/87d3fa81419c4fce2d360572290bfecee7a3fbf9))
+
 ## [v2.2.0](https://github.com/Whinarn/UnityMeshSimplifier/compare/v2.1.0...v2.2.0) (2020-03-24)
 
 
